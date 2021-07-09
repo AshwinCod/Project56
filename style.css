@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color:lightblue;
+}
+img{
+  height: 250;
+  width: 350;
+  padding: 50;
+  text-align: center;
+}
+
+script{
+  margin-bottom: 1000;
+}
